@@ -1,4 +1,4 @@
-# better-requests
+# better-requests: <br> HTTP for Humans that do right
 
 A good design makes it intuitive and convenient to do right, 
 **better-requests** is a wrapper for *requests* that makes default behaviors right. 
